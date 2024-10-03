@@ -1,2 +1,8 @@
 Optiver-Trading-At-The-Close/dataset
 Optiver-Trading-At-The-Close/optiver-trading-at-the-close.zip
+Optiver-Realized-Volatility-Prediction/book_test.parquet
+Optiver-Realized-Volatility-Prediction/book_train.parquet
+Optiver-Realized-Volatility-Prediction/trade_test.parquet
+Optiver-Realized-Volatility-Prediction/trade_train.parquet
+Optiver-Realized-Volatility-Prediction/optiver-realized-volatility-prediction.zip
+Optiver-Realized-Volatility-Prediction/train.csv
